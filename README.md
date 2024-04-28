@@ -1,7 +1,9 @@
 ## Power Bi Visualization - Wildlife Data
 - Video :
 
-This project aims to visualize and analyze wildlife data related  using Power BI Desktop. The dataset includes information such as :
+https://github.com/Amelina237/Power-BI-Project/assets/33069266/79f0b8c7-d812-4c2a-b5b9-35d561f264ed
+
+This project aims to visualize and analyze wildlife data using Power BI Desktop. The dataset includes information such as :
 
 - Types of Species
 - Types of license and permit
