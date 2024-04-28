@@ -44,5 +44,6 @@ This project aims to visualize and analyze wildlife data related  using Power BI
 
 -Status of License/ Permit
 
-![6 Status Lesen Permit Permit Khas](https://github.com/Amelina237/Power-BI-Project/assets/33069266/b738c394-5d96-44f6-b127-7e55c36d9440)
+![6 Status Lesen Permit Permit Khas](https://github.com/Amelina237/Power-BI-Project/assets/33069266/50703cc4-c02a-4147-bf48-cd88b0e3b41b)
+
 
