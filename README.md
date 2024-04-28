@@ -27,5 +27,22 @@ This project aims to visualize and analyze wildlife data related  using Power BI
 
 ## Screenshot of Visualization :
 - New / Renew License Application
+  
 ![1 Pengeluaran Semua Lesen](https://github.com/Amelina237/Power-BI-Project/assets/33069266/52250789-5906-4868-ab3d-9093b02510b4)
+
+- Species Category
+
+![2 Kategori Specimen Hidupan Liar](https://github.com/Amelina237/Power-BI-Project/assets/33069266/e646777d-f689-4218-9c8f-07e34dfa45cf)
+
+- Type of Applicant
+
+![4 Kategori Pemohon](https://github.com/Amelina237/Power-BI-Project/assets/33069266/52e8786c-a97d-486e-a6b8-917e4bad0ec0)
+
+- Activity and Premise Business
+
+![5 Kategori Aktiviti Lesen NiagaTaksidermi](https://github.com/Amelina237/Power-BI-Project/assets/33069266/36559817-fcf3-4bb0-bd4a-ab99cf50f1ee)
+
+-Status of License/ Permit
+
+![6 Status Lesen Permit Permit Khas](https://github.com/Amelina237/Power-BI-Project/assets/33069266/b738c394-5d96-44f6-b127-7e55c36d9440)
 
