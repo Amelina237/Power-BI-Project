@@ -26,6 +26,6 @@ This project aims to visualize and analyze wildlife data related  using Power BI
 - **Donut Chart**
 
 ## Screenshot of Visualization :
-
+- New / Renew License Application
 ![1 Pengeluaran Semua Lesen](https://github.com/Amelina237/Power-BI-Project/assets/33069266/52250789-5906-4868-ab3d-9093b02510b4)
 
