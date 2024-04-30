@@ -42,7 +42,7 @@ This project aims to visualize and analyze wildlife data using Power BI Desktop.
 
 ![5 Kategori Aktiviti Lesen NiagaTaksidermi](https://github.com/Amelina237/Power-BI-Project/assets/33069266/36559817-fcf3-4bb0-bd4a-ab99cf50f1ee)
 
--Status of License/ Permit
+- Status of License/ Permit
 
 ![6 Status Lesen Permit Permit Khas](https://github.com/Amelina237/Power-BI-Project/assets/33069266/50703cc4-c02a-4147-bf48-cd88b0e3b41b)
 
